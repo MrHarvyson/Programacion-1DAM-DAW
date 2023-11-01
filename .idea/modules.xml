@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion-1DAM-DAW.iml" filepath="$PROJECT_DIR$/.idea/Programacion-1DAM-DAW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaBucles.iml" filepath="$PROJECT_DIR$/PruebaBucles.iml" />
     </modules>
   </component>
 </project>
