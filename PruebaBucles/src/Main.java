@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //problema1();
-        //problema2();
+        problema2();
     }
 
     static public void problema1(){
